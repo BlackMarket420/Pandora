@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PandoraFramework\1.4\Assemblies\Pandora.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PandoraFramework\1.4\Assemblies\Pandora.pdb
+C:\Users\leosi\OneDrive\Desktop\CodeSources\Codes\PandoraFramework\Pandora\Pandora\obj\Debug\Pandora.csproj.AssemblyReference.cache
+C:\Users\leosi\OneDrive\Desktop\CodeSources\Codes\PandoraFramework\Pandora\Pandora\obj\Debug\Pandora.csproj.CoreCompileInputs.cache
+C:\Users\leosi\OneDrive\Desktop\CodeSources\Codes\PandoraFramework\Pandora\Pandora\obj\Debug\Pandora.csproj.CopyComplete
+C:\Users\leosi\OneDrive\Desktop\CodeSources\Codes\PandoraFramework\Pandora\Pandora\obj\Debug\Pandora.dll
+C:\Users\leosi\OneDrive\Desktop\CodeSources\Codes\PandoraFramework\Pandora\Pandora\obj\Debug\Pandora.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PandoraFramework\1.5\Assemblies\Pandora.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\PandoraFramework\1.5\Assemblies\Pandora.pdb
