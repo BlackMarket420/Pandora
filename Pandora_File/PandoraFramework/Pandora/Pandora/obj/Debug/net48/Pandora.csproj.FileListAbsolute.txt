@@ -1,0 +1,10 @@
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.AssemblyInfoInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.AssemblyInfo.cs
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.sourcelink.json
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Assemblies\Pandora.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Assemblies\Pandora.pdb
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Pandora\Pandora_File\PandoraFramework\Pandora\Pandora\obj\Debug\net48\Pandora.pdb

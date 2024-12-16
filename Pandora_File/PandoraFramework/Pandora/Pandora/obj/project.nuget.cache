@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZXQiqQIafUWtFHO4a5YfcQsr3AcX6Wbj82n8SsIbSvZQLeI/XBKYC1respppP5ypUQMJDEwrezo2I27U62d1BQ==",
+  "success": true,
+  "projectFilePath": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Pandora\\Pandora_File\\PandoraFramework\\Pandora\\Pandora\\Pandora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4297\\krafs.rimworld.ref.1.5.4297.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -9,12 +9,12 @@ namespace Pandora
 {
     public class HediffCompProperties_HediffOnKill : HediffCompProperties
     {
-
         public HediffCompProperties_HediffOnKill()
         {
-            this.compClass = typeof(HediffComp_HediffOnKill);
+            compClass = typeof(HediffComp_HediffOnKill);
         }
 
-        public HediffDef hediff;
+        public HediffDef hediffDef;
+        public EffecterDef effecterDef;
     }
 }
